@@ -17,4 +17,6 @@ func _process(delta):
 		velocity = velocity.normalized()*Speed
 	position += velocity * delta
 	
+	
+	
 
